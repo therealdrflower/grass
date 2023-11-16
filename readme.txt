@@ -1,6 +1,5 @@
-This language is called Stack23
-Stack because it is a Stack based langauge
-23 because of 2023
+This language is called Grass
+Becauase some of y'all need to touch grass.
 
 Functions:
 push "int value" - pushs a value to the stack
