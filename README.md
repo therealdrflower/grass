@@ -1,4 +1,5 @@
-# stack23
+# grass programming lagnauge
+Some of y'all need to touch grass. So I think this is the closest you will ever get.
 Stack based langauge with more functionality
 
 ## Windows Compile
