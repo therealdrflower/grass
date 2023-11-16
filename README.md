@@ -8,6 +8,7 @@ Run `compile.bat`
 ## Linux/Mac
 Check `compile.bat` and run that command in terminal
 
+# Notes
 Please check `readme.txt` for all avaliable functions.
 
 Files should end in `.grs`.
